@@ -25,12 +25,12 @@ Looking to accelerate your embedded development? The **STM32F4 Nucleo Board** is
 
 <p align="center"><a href="https://github.com/hothienai/development-kits">:package: Buy Now!</a></p>
 
-## STM32F103C8T6 Blue Pill Board
+## STM32F103 Blue Pill Board
 
-The **STM32F103C8T6 Blue Pill Board** is a popular and affordable development board, ideal for students, hobbyists, and professionals alike. Featuring the ARM Cortex-M3 core, this compact board offers a great balance of performance and cost, making it perfect for learning, prototyping, and building a wide range of embedded applications. Whether you're working on IoT devices, automation, or custom electronics, the Blue Pill provides a flexible and reliable platform to bring your ideas to life.
+The **STM32F103 Blue Pill Board** is a popular and affordable development board, ideal for students, hobbyists, and professionals alike. Featuring the ARM Cortex-M3 core, this compact board offers a great balance of performance and cost, making it perfect for learning, prototyping, and building a wide range of embedded applications. Whether you're working on IoT devices, automation, or custom electronics, the Blue Pill provides a flexible and reliable platform to bring your ideas to life.
 
 <p align="center">
-  <img src="path/to/your-bluepill-image.jpg" alt="STM32F103C8T6 Blue Pill Board Blue Pill Board" />
+  <img src="path/to/your-bluepill-image.jpg" alt="STM32F103 Blue Pill Board Blue Pill Board" />
 </p>
 
 <p align="center"><a href="https://github.com/hothienai/development-kits">:package: Buy Now!</a></p>
