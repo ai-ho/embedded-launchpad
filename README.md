@@ -1,5 +1,5 @@
 # Development Kits
-Welcome to our Embedded Shop! :robot:🛒✨  
+Welcome to Embedded Shop! :robot:🛒✨  
 You can easily find a variety of development kits for embedded systems here. Whether you're a hobbyist, student, or professional engineer, our curated selection covers everything you need to kickstart your next project. Explore our range of boards, modules, and accessories designed to support innovation and learning in the world of embedded technology.
 
 # Catagories
@@ -23,9 +23,7 @@ Looking to accelerate your embedded development? The **STM32F4 Nucleo Board** is
   <img src="path/to/your-image.jpg" alt="STM32F4 Nucleo Board" />
 </p>
 
-<p align="center">
-  <!-- [Buy Now](your-product-link-here) -->
-</p>
+<p align="center"><a href="https://github.com/hothienai/development-kits">:package: Buy it on Shopee Vietnam!</a></p>
 
 ## STM32F103C8T6 Blue Pill Board
 
@@ -35,9 +33,7 @@ The **STM32F103C8T6 Blue Pill Board** is a popular and affordable development bo
   <img src="path/to/your-bluepill-image.jpg" alt="STM32F103C8T6 Blue Pill Board Blue Pill Board" />
 </p>
 
-<p align="center">
-  <!-- [Buy Now](your-product-link-here) -->
-</p>
+<p align="center"><a href="https://github.com/hothienai/development-kits">:package: Buy it on Shopee Vietnam!</a></p>
 
 ## ST-Link V2 Programmer & Debugger
 
@@ -47,9 +43,7 @@ The **ST-Link V2** is a reliable and easy-to-use programmer and debugger for STM
   <img src="path/to/your-stlinkv2-image.jpg" alt="ST-Link V2 Programmer & Debugger" />
 </p>
 
-<p align="center">
-  <!-- [Buy Now](your-product-link-here) -->
-</p>
+<p align="center"><a href="https://github.com/hothienai/development-kits">:package: Buy it on Shopee Vietnam!</a></p>
 
 ## ST-Link Mini Debugger
 
@@ -59,14 +53,10 @@ The **ST-Link Mini Debugger** is a compact and cost-effective tool for programmi
   <img src="path/to/your-stlinkmini-image.jpg" alt="ST-Link Mini Debugger" />
 </p>
 
-<p align="center">
-  <!-- [Buy Now](your-product-link-here) -->
-</p>
+<p align="center"><a href="https://github.com/hothienai/development-kits">:package: Buy it on Shopee Vietnam!</a></p>
 
-## Check It Out For More Products
-<p align="center">
-  <!-- [Check It Out!](your-product-link-here) -->
-</p>
+## Discover More!
+<p align="center"><a href="https://github.com/hothienai/development-kits/tree/main/catagories">🚀 Discover the perfect development kits here!</a></p>
 
 # Thank for your support!
 :pray: I sincerely appreciate your support! You are so kind. Let’s spread this goodness and kindness together!
