@@ -8,7 +8,7 @@
 - 👉 [STM32F103C6x Blue Pill Board](/development-boards/dev-boards/stm32f103-blue-pill/)
 
 ## Debuggers
-- 👉 [ST Link Mini Debugger](/development-boards/debuggers/stlink-mini-debugger/)
+- 👉 [ST-Link V2 Debugger](/development-boards/debuggers/stlink-v2-debugger/)
 
 ## Sensors
 
@@ -24,7 +24,7 @@
 - 🔍 [Reference Materials](/referrence-materials/)
 
 # Embedded Insights
-🔑 [Embedded Insights](https://github.com/ai-ho/embedded-insights/tree/main)
+🔑 [Embedded Insights](https://github.com/ai-ho/embedded-insights)
 
 # Repositories
 🏠 [My Repositories](https://github.com/ai-ho)
