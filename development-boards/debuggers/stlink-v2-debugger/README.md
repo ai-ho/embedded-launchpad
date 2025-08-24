@@ -24,7 +24,7 @@ You can purchase the ST-Link V2 Debugger from popular online retailers:
 - 🔍 [Reference Materials](/referrence-materials/)
 
 # Embedded Insights
-🔑 [Embedded Insights](https://github.com/ai-ho/embedded-insights/tree/main)
+🔑 [Embedded Insights](https://github.com/ai-ho/embedded-insights)
 
 # Repositories
 🏠 [My Repositories](https://github.com/ai-ho)
